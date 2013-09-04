@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="app.xsl" type="text/xsl" ?>
+<xml>
+  <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="app.xml.js" type="application/javascript"/>
+</xml>
+
+
